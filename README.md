@@ -7,3 +7,4 @@ leetcode record
 |3-23|153|medium|
 |3-24|154|hard|
 |3-25|371|easy|
+|3-26|278|easy|
