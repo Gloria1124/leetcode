@@ -8,3 +8,4 @@ leetcode record
 |3-24|154|hard|
 |3-25|371|easy|
 |3-26|278|easy|
+|3-26|287|medium|
