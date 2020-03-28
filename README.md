@@ -10,3 +10,4 @@ leetcode record
 |3-26|278|easy|
 |3-26|287|medium|
 |3-27|300|medium|
+|3-27|367|easy|
