@@ -16,3 +16,6 @@ leetcode record
 |3-30|215|medium|
 |3-31|658|medium|
 |3-31|718|medium|
+|4-1|875|medium|
+|4-1|1283|medium|
+|4-2|1011|medium|
