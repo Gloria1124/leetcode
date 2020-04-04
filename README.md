@@ -20,3 +20,4 @@ leetcode record
 |4-1|1283|medium|
 |4-2|1011|medium|
 |4-3|206|easy|
+|4-3|876|easy|
