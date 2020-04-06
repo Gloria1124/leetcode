@@ -24,3 +24,6 @@ leetcode record
 |4-5|141|easy|
 |4-5|234|easy|
 |4-5|203|easy|
+|4-6|445|medium|
+|4-6|725|medium|
+|4-6|328|medium|
