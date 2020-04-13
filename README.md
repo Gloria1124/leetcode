@@ -30,3 +30,6 @@ leetcode record
 |4-8|109|medium|
 |4-9|21|easy|
 |4-10|108|easy|
+|4-11|142|medium|
+|4-12|148|medium|
+|4-12|784|easy|
